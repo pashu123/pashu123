@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<p align="left">
+  <img src=https://github-readme-stats.vercel.app/api?username=pashu123&show_icons=true&theme=tokyonight&count_private=true />
+</p>
+
+---
+
 <!--
 **pashu123/pashu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
