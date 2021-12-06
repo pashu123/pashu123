@@ -1,23 +1,11 @@
-### Hi there 👋
+### Hey 👋, I'm Prashant
 
+[![Github](https://img.shields.io/github/followers/pashu123?label=Follow&style=social)](https://github.com/pashu123)
 
-<p align="left">
-  <img src=https://github-readme-stats.vercel.app/api?username=pashu123&show_icons=true&theme=tokyonight&count_private=true />
-</p>
+I ❤ Open Source. I love [Neo-Vim](https://neovim.io/) and [LLVM](https://llvm.org/).
 
----
+* Interested in MLIR mainly polyhedral compilation.
+* Contributer in torch-mlir project.
 
-<!--
-**pashu123/pashu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pashu123&hide=html)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=pashu123&show_icons=true&count_private=true&line_height=40)
