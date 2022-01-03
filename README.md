@@ -9,3 +9,5 @@ I ❤ Open Source. I love [Neo-Vim](https://neovim.io/) and [LLVM](https://llvm.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pashu123&hide=html)
 ![mattn's github stats](https://github-readme-stats.vercel.app/api?username=pashu123&show_icons=true&count_private=true&line_height=40)
+
+I go for yoga retreats in Rishikesh. If you are interested feel free to connect with me on linkedin.
