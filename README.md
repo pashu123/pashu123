@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/pashu123?label=Follow&style=social)](https://github.com/pashu123)
 
-I ❤ Open Source, [Neo-Vim](https://neovim.io/) and [LLVM](https://llvm.org/).
+I ❤ Open Source, [Neo-Vim](https://neovim.io/) and [MLIR](https://mlir.llvm.org/).
 
 * Interested in MLIR mainly polyhedral compilation [See here](https://grosser.science/FPL). 
 * Contributer in torch-mlir project.
